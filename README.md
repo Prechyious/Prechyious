@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prechyious&label=Profile%20views&color=0e75b6&style=flat" alt="prechyious" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lemo_prechee" target="blank"><img src="https://img.shields.io/twitter/follow/lemo_prechee?logo=twitter&style=for-the-badge" alt="lemo_prechee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lemo_prechee" target="blank"><img src="https://img.shields.io/twitter/follow/lemo_prechee?logo=twitter&style=for-the-badge" alt="lemo_preche" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9fl0E-2Mxc1blbGSXX0UqrXGhH-a7PhrtVw&usqp=CAU)]
+[![MasterHead](https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)]
 <h1 align="center">Hi 👋, I'm Leghemo Precious</h1>
 <h3 align="center">Frontend Developer from West Africa</h3> 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>

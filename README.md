@@ -1,6 +1,6 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)]
+[![MasterHead](https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)](leghemo.vercel.app)
 <h1 align="center">Hi 👋, I'm Leghemo Precious</h1>
-<h3 align="center">Fullstack Web Developer</h3> 
+<h3 align="center">Frontend Web Developer</h3> 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 
@@ -9,6 +9,8 @@
 <p align="left"> <a href="https://twitter.com/lemo_preche" target="_blank"><img src="https://img.shields.io/twitter/follow/lemo_preche?logo=twitter&style=for-the-badge" alt="lemo_preche" /></a> </p>
 
 - 🌱 I’m currently learning **React**
+
+- 👨‍💻 Portfolio [leghemo.vercel.app](leghemo.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
